@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.zehuajiang.gogenerator.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.zehuajiang.gogenerator.MyBundle
 
 class MyApplicationService {
 
